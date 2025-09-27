@@ -5,8 +5,6 @@ This project implements a computer vision system for automatically detecting new
 
 The system takes sequential images of the board, detects the new piece, recognizes the digits on it using **template matching**, and updates player scores based on the game rules, including multipliers and equation constraints.  
 
----
-
 ## How It Works
 
 ### Task 1 – Board Detection & Piece Placement
